@@ -14,7 +14,7 @@ Additionally, there is code to investigate covariate balance for the schools:
 ![Plot of covariate balance](img/balance_plot.png)
 
 ## Contact
-**MetaSynth** is project by the [ODISSEI Social Data Science (SoDa)](https://odissei-data.nl/nl/soda/) team.
+This is a project by the [ODISSEI Social Data Science (SoDa)](https://odissei-data.nl/nl/soda/) team.
 Do you have questions, suggestions, or remarks on the technical implementation? File an issue in the
 issue tracker or feel free to contact [Erik-Jan van Kesteren](https://github.com/vankesteren).
 
